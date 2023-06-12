@@ -6,6 +6,24 @@
 - 📫 How to reach me **kheiereddin2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kheiereddin-boukhatem-801425240" target="_blank" rel="noreferrer">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kheiereddin-boukhatem-801425240" height="30" width="40" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://fb.com/kheier.eddin" target="_blank" rel="noreferrer">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kheier.eddin" height="30" width="40" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://instagram.com/kheiereddinboukhatem" target="_blank" rel="noreferrer">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kheiereddinboukhatem" height="30" width="40" />
+</a>
+
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
 
