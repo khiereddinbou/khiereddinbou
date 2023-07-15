@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kheiereddin Boukhatem</h1>
-<h3 align="center">Passionate Frontend Developer from Algeria</h3>
+<h3 align="center">Passionate Frontend Developer</h3>
 <h5 align="center">
 I enjoy creating solid, inclusive products and digital experiences for the web
 </h5>
