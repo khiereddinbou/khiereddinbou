@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="gpb3Jz_uLKG6zrO2Ai5806s9a_SGMpNhSAg_wT6fG9k" />
 <h1 align="center">Hi 👋, I'm Kheiereddin Boukhatem</h1>
 <h3 align="center">Passionate Frontend Developer</h3>
 <h5 align="center">
