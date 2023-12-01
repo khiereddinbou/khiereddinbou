@@ -17,7 +17,7 @@ I enjoy creating solid, inclusive products and digital experiences for the web
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.instagram.com/kheireddineboukhatem1/" target="_blank" rel="noreferrer">
+<a href="https://www.facebook.com/kheireddine.boukhatem.fb" target="_blank" rel="noreferrer">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kheier.eddin" height="30" width="40" />
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
