@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kheiereddin Boukhatem</h1>
+<h1 align="center">Hi 👋, I'm Kheireddine Boukhatem</h1>
 <h3 align="center">Passionate Frontend Developer</h3>
 <h5 align="center">
 I enjoy creating solid, inclusive products and digital experiences for the web
@@ -6,9 +6,9 @@ I enjoy creating solid, inclusive products and digital experiences for the web
 
 <br/>
 
-- 👨‍💻 All of my projects are available at [https://kheiereddin.vercel.app/](https://kheiereddin.vercel.app/)
-- 📄  My resume [https://kheiereddin.vercel.app/resume.pdf](https://kheiereddin.vercel.app/resume.pdf/)
-- 📫 How to reach me **kheiereddin2004@gmail.com**
+- 👨‍💻 All of my projects are available at [https://kheireddine.vercel.app/](https://kheireddine.vercel.app/)
+- 📄  My resume [https://kheireddine.vercel.app/resume.pdf](https://kheireddine.vercel.app/resume.pdf/)
+- 📫 How to reach me **kheireddineboukhatem1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
